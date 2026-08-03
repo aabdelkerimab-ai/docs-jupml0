@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-ub8dhi.jnetoto88gnf.cfd/sitemap.xml
